@@ -2,7 +2,7 @@
   <img src="logo.png" width="40%">
 </div>
   
-# QMMC26
+# QMMC 2026
 
 Official Repository for Advanced School on Quantum Modelling of Materials with CRYSTAL (QMMC 2026)
 
